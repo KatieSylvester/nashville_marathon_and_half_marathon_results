@@ -1,7 +1,10 @@
-### Nashville Rock-and-Roll Marathon and Half-Marathon Race Results (2016 - 2019)
+## Nashville Rock-and-Roll Marathon and Half-Marathon Race Results (2016 - 2019)
 
-![first page of powerpoint](../main/images/marathon2.jpg)
-![first page of powerpoint](../main/images/marathon1.jpg)
+![first page of powerpoint](../main/images/marathon2.jpeg)
+![first page of powerpoint](../main/images/marathon1.jpeg)
+
+---------------------------------------------------------
+## Data Exploration Questions
 
 1. Create a new blank workbook and load the 8 marathon and half-marathon tables from marathons.accdb, a MS Access database called (Data --> Get Data --> From Database --> From Microsoft Access Database).  
     a. Load each table to a separate worksheet. Give the worksheets *_meaningful_* names.  
@@ -25,7 +28,13 @@
 
 #### BONUS: Find the top three marathon runners for 2016, 2017, 2018, and 2019. Remove any duplicates across years (i.e., Scott Wietecha should only be in the list once). How many unique runners finished at one of the top 3 spots in the past 4 races? In how many of the 4 years did each top 3 runner finish? How has each runner’s time changed from year to year?
 
-##### Create a brief (5 minute) presentation to communicate your findings from this exercise.
+---------------------------------------------------------
+## Deliverables
+
+Create a brief (5 minute) presentation to communicate your findings from this exercise.
+
+---------------------------------------------------------
+## How To Read This Repo
 
 
 
