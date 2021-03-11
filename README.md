@@ -3,7 +3,17 @@
 ![first page of powerpoint](../main/images/marathon2.png)
 ![first page of powerpoint](../main/images/marathon1.jpeg)
 
----------------------------------------------------------
+## Table of Contents
+https://github.com/user/repo-name#header-name
+
+
+## General Information
+Data
+
+## Technologies
+Project is created with:
+* Excel
+
 ## Data Exploration Questions
 
 1. Create a new blank workbook and load the 8 marathon and half-marathon tables from marathons.accdb, a MS Access database called (Data --> Get Data --> From Database --> From Microsoft Access Database).  
@@ -26,12 +36,9 @@
 
 6. Scott Wietecha has won the Rock and Roll Marathon for 7 years in a row. Compute and display the difference between Wietecha’s time and the next fastest runner for each year.
 
-#### BONUS: Find the top three marathon runners for 2016, 2017, 2018, and 2019. Remove any duplicates across years (i.e., Scott Wietecha should only be in the list once). How many unique runners finished at one of the top 3 spots in the past 4 races? In how many of the 4 years did each top 3 runner finish? How has each runner’s time changed from year to year?
+BONUS: Find the top three marathon runners for 2016, 2017, 2018, and 2019. Remove any duplicates across years (i.e., Scott Wietecha should only be in the list once). How many unique runners finished at one of the top 3 spots in the past 4 races? In how many of the 4 years did each top 3 runner finish? How has each runner’s time changed from year to year?
 
 
----------------------------------------------------------
-## How To Read This Repo
-All analysis and charts are contained in the marathon_analysis Excel file.
 
 
 
