@@ -15,10 +15,10 @@ Project is created with:
 * Excel
 
 # Table of Contents
-* [Team Members](#team-members)
+* [General Information](#general-information)
 
-# <a name="team-members"></a>Team Members
-* "J. Jesus. P. Aguinaga" <admin@listforks.com>
+# <a name="general-information"></a>General Information
+
 
 ## Data Exploration Questions
 
