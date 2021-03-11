@@ -4,14 +4,14 @@
 ![first page of powerpoint](../main/images/marathon1.jpeg)
 
 
-# Table of Contents
+## Table of Contents
 * [General Information](#general-information)
 * [Technologies](#technologies)
 
-# <a name="general-information"></a>General Information
+## <a name="general-information"></a>General Information
 
 
-# <a name="technologies"></a>Techbologies
+## <a name="technologies"></a>Technologies
 Project is created with:
 * Excel
 
