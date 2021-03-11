@@ -11,12 +11,11 @@
 
 ## <a name="general-information"></a>General Information
 
-
 ## <a name="technologies"></a>Technologies
 Project is created with:
 * Excel
 
-## <a name="data"></a>Technologies Data Exploration Questions
+## <a name="data"></a>Data Exploration Questions
 
 1. Create a new blank workbook and load the 8 marathon and half-marathon tables from marathons.accdb, a MS Access database called (Data --> Get Data --> From Database --> From Microsoft Access Database).  
     a. Load each table to a separate worksheet. Give the worksheets *_meaningful_* names.  
