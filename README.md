@@ -1,5 +1,8 @@
 ### Nashville Rock-and-Roll Marathon and Half-Marathon Race Results (2016 - 2019)
 
+![first page of powerpoint](../main/images/marathon2.jpg)
+![first page of powerpoint](../main/images/marathon1.jpg)
+
 1. Create a new blank workbook and load the 8 marathon and half-marathon tables from marathons.accdb, a MS Access database called (Data --> Get Data --> From Database --> From Microsoft Access Database).  
     a. Load each table to a separate worksheet. Give the worksheets *_meaningful_* names.  
     b. Be sure to format the Time column after load (HH:MM:SS). If you get any load errors, try to understand whether you can reload the data and correct them.  
