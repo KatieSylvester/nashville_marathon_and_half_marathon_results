@@ -10,6 +10,7 @@
 * [Data Exploration Questions](#data)
 <br>
 <br>
+
 ## <a name="general-information"></a>General Information
 This was the first team probject at Nashville Software School.  Data from the Nashville marathon and half marathons (2016-2019) was provided in Access and we imported it into Excel.  Using the data exploration questions below we gained insight from the data and analyzed trends for the four years.  
 <br>
@@ -19,6 +20,7 @@ Project is created with:
 * Excel
 <br>
 <br>
+
 ## <a name="data"></a>Data Exploration Questions
 
 1. Create a new blank workbook and load the 8 marathon and half-marathon tables from marathons.accdb, a MS Access database called (Data --> Get Data --> From Database --> From Microsoft Access Database).  
