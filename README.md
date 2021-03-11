@@ -3,22 +3,17 @@
 ![first page of powerpoint](../main/images/marathon2.png)
 ![first page of powerpoint](../main/images/marathon1.jpeg)
 
-## Table of Contents
-[General Information] (#General-Information)
-
-
-## <a name="General-Information"></a>General Information
-Data
-
-## Technologies
-Project is created with:
-* Excel
 
 # Table of Contents
 * [General Information](#general-information)
+* [Technologies](#technologies)
 
 # <a name="general-information"></a>General Information
 
+
+# <a name="technologies"></a>Techbologies
+Project is created with:
+* Excel
 
 ## Data Exploration Questions
 
