@@ -31,7 +31,7 @@
 
 ---------------------------------------------------------
 ## How To Read This Repo
-All analysis and charts are contained in the Excel file.
+All analysis and charts are contained in the marathon_analysis Excel file.
 
 
 
