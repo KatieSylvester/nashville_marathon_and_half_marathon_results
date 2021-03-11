@@ -9,12 +9,15 @@
 * [Technologies](#technologies)
 * [Data Exploration Questions](#data)
 
+
 ## <a name="general-information"></a>General Information
 This was the first team probject at Nashville Software School.  Data from the Nashville marathon and half marathons (2016-2019) was provided in Access and we imported it into Excel.  Using the data exploration questions below we gained insight from the data and analyzed trends for the four years.  
+
 
 ## <a name="technologies"></a>Technologies
 Project is created with:
 * Excel
+
 
 ## <a name="data"></a>Data Exploration Questions
 
