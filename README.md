@@ -1,5 +1,4 @@
-## Nashville Rock-and-Roll Marathon and Half-Marathon Race Results 
-(2016 - 2019)
+## Nashville Rock-and-Roll Marathon and Half-Marathon Race Results <br> (2016-2019)
 
 ![first page of powerpoint](../main/images/marathon2.png)
 ![first page of powerpoint](../main/images/marathon1.jpeg)
