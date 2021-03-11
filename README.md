@@ -4,6 +4,7 @@
 ![first page of powerpoint](../main/images/marathon1.jpeg)
 <br>
 <br>
+
 ## Table of Contents
 * [General Information](#general-information)
 * [Technologies](#technologies)
@@ -11,7 +12,7 @@
 <br>
 <br>
 
-### <a name="general-information"></a>General Information
+## <a name="general-information"></a>General Information
 This was the first team probject at Nashville Software School.  Data from the Nashville marathon and half marathons (2016-2019) was provided in Access and we imported it into Excel.  Using the data exploration questions below we gained insight from the data and analyzed trends for the four years.  
 <br>
 <br>
@@ -21,8 +22,7 @@ Project is created with:
 <br>
 <br>
 
-### <a name="data"></a>Data Exploration Questions
-
+## <a name="data"></a>Data Exploration Questions
 1. Create a new blank workbook and load the 8 marathon and half-marathon tables from marathons.accdb, a MS Access database called (Data --> Get Data --> From Database --> From Microsoft Access Database).  
     a. Load each table to a separate worksheet. Give the worksheets *_meaningful_* names.  
     b. Be sure to format the Time column after load (HH:MM:SS). If you get any load errors, try to understand whether you can reload the data and correct them.  
