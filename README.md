@@ -4,7 +4,7 @@
 ![first page of powerpoint](../main/images/marathon1.jpeg)
 
 ## Table of Contents
-* General Information [#General-Information]
+* [General Information] (#General-Information)
 
 
 ## General Information
