@@ -35,7 +35,7 @@ Create a brief (5 minute) presentation to communicate your findings from this ex
 
 ---------------------------------------------------------
 ## How To Read This Repo
-
+All analysis and charts are contained in the Excel file.
 
 
 
