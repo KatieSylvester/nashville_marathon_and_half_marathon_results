@@ -4,7 +4,7 @@
 ![first page of powerpoint](../main/images/marathon1.jpeg)
 
 ## Table of Contents
-https://github.com/user/repo-name#header-name
+https://github.com/user/nashville_marathon_and_half_marathon_results#General-Information
 
 
 ## General Information
