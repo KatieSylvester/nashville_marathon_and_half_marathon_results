@@ -8,8 +8,8 @@
 ## Table of Contents
 * [General Information](#general-information)
 * [Technologies](#technologies)
-* [Data Exploration Questions](#data)
 * [Files in this Repository](#files)
+* [Data Exploration Questions](#data)
 <br>
 <br>
 
@@ -21,6 +21,9 @@ This was the first team probject at Nashville Software School.  Data from the Na
 Project is created with:
 * Excel
 <br>
+
+## <a name="files"></a>Files in this Repository
+Analysis and findings can all be found in the marathon_analysis.xlsx file.
 <br>
 
 ## <a name="data"></a>Data Exploration Questions
@@ -45,11 +48,6 @@ Project is created with:
 6. Scott Wietecha has won the Rock and Roll Marathon for 7 years in a row. Compute and display the difference between Wietecha’s time and the next fastest runner for each year.
 
 Bonus: Find the top three marathon runners for 2016, 2017, 2018, and 2019. Remove any duplicates across years (i.e., Scott Wietecha should only be in the list once). How many unique runners finished at one of the top 3 spots in the past 4 races? In how many of the 4 years did each top 3 runner finish? How has each runner’s time changed from year to year?
-<br>
-<br>
-
-## <a name="files"></a>Files in this Repository
-Analysis and findings can all be found in the marathon_analysis.xlsx file.
 
 ![analysis](../main/images/analysis1.jpg)
 
